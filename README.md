@@ -7,18 +7,12 @@
 #### 效果截图
 
 <img src="https://github.com/supercat55/Echo-music/blob/master/static/1.png" width="360" height="640"/>
-
-![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/2.png)
-
-![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/3.png)
-
-![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/4.png)
-
-![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/5.png)
-
-![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/6.png)
-
-![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/7.png)
+<img src="https://github.com/supercat55/Echo-music/blob/master/static/2.png" width="360" height="640"/>
+<img src="https://github.com/supercat55/Echo-music/blob/master/static/3.png" width="360" height="640"/>
+<img src="https://github.com/supercat55/Echo-music/blob/master/static/4.png" width="360" height="640"/>
+<img src="https://github.com/supercat55/Echo-music/blob/master/static/5.png" width="360" height="640"/>
+<img src="https://github.com/supercat55/Echo-music/blob/master/static/6.png" width="360" height="640"/>
+<img src="https://github.com/supercat55/Echo-music/blob/master/static/7.png" width="360" height="640"/>
 
 #### 技术栈
 
