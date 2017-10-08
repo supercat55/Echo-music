@@ -1,0 +1,16 @@
+body,
+html {
+    font-family: 'PingFang SC','STheitiSC-Light','Helvetica-Light',Arial, Helvetica, sans-serif,
+    'Droid Sans Fallback';
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    background: #000;
+    position: relative;
+    height: 100%;
+    overflow: hidden;
+}
+.clearFix::after {
+    content: "";
+    display: block;
+    clear: both;
+}
