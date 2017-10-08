@@ -6,7 +6,7 @@
 
 #### 效果截图
 
-![screenshot](https://github.com/supercat55/Echo-music/blob/master/static/1.png)
+<img src="https://github.com/supercat55/Echo-music/blob/master/static/1.png" width="360" height="640"/>
 
 ![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/2.png)
 
