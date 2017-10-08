@@ -6,19 +6,19 @@
 
 #### 效果截图
 
-![](https://github.com/supercat55/Echo-music/tree/master/static/1.png)
+![screenshot](https://github.com/supercat55/Echo-music/blob/master/static/1.png)
 
-![Screenshot_20171008-174116](https://github.com/supercat55/Echo-music/tree/master/static/2.png)
+![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/2.png)
 
-![Screenshot_20171008-174121](https://github.com/supercat55/Echo-music/tree/master/static/3.png)
+![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/3.png)
 
-![Screenshot_20171008-174125](https://github.com/supercat55/Echo-music/tree/master/static/4.png)
+![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/4.png)
 
-![Screenshot_20171008-174138](https://github.com/supercat55/Echo-music/tree/master/static/5.png)
+![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/5.png)
 
-![Screenshot_20171008-174204](https://github.com/supercat55/Echo-music/tree/master/static/6.png)
+![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/6.png)
 
-![Screenshot_20171008-174222](https://github.com/supercat55/Echo-music/tree/master/static/7.png)
+![Screenshot](https://github.com/supercat55/Echo-music/blob/master/static/7.png)
 
 #### 技术栈
 
